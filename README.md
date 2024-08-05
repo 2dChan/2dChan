@@ -1,6 +1,6 @@
 ## Обо мне 👋
 
-- ❤️‍🔥 Мой парень: [gadzet](https://github.com/@gadzet005)
+- ❤️‍🔥 Мой парень: [Gadzet005](https://github.com/@Gadzet005)
 - 🌱 Любимый язык: Python
 - ✒️ Место учебы: HSE
 - ⚡ Любимая эмоция: отчаяние
