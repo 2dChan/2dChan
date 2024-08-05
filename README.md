@@ -3,8 +3,9 @@
 - ❤️‍🔥 Мой парень: @gadzet005
 - 🌱 Любимый язык: Python
 - ✒️ Место учебы: HSE
-- ⚡ Любимая эмоция: отчаяние
-\nP.S: Мне чертовски легко становится скучно! 💬 Спроси меня о аниме)))
+- ⚡ Любимая эмоция: отчаяние<br />
+<summary>P.S: Мне чертовски легко становится скучно! 💬 Спроси меня о аниме)))</summary>
+
 
 <!--
 **2dChan/2dChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
