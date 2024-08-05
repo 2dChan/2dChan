@@ -4,7 +4,7 @@
 - 🌱 Любимый язык: Python
 - ✒️ Место учебы: HSE
 - ⚡ Любимая эмоция: отчаяние
-P.S: Мне чертовски легко становится скучно! 💬 Спроси меня о аниме)))
+\nP.S: Мне чертовски легко становится скучно! 💬 Спроси меня о аниме)))
 
 <!--
 **2dChan/2dChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
